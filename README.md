@@ -7,7 +7,7 @@ Web developer with experience in customer service. Earned a certificate from Geo
 
 * 🌍  I'm based in Atlanta
 * ✉️  You can contact me at [gizmokabanjo@gmail.com](mailto:gizmokabanjo@gmail.com)
-* 🧠  I'm learning backend databases
+* 🧠  I'm learning NoSQL and React
 * 🤝  I'm open to collaborating on I'm all ears on any project. Let's collab!
 
 ### Skills
