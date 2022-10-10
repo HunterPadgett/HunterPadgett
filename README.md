@@ -5,8 +5,9 @@ Full-Stack Developer
 --------------------
 Web developer with experience in customer service. Earned a certificate from Georgia Tech Professional Education in full-stack development. Interested in building interactive web applications with intuitive user experience using best practices to meet the client’s needs in a timely manner. Known amongst staff to be an efficient problem-solver, cooperative, and an effective communicator. Eager for continuous learning and mastering the craft with a passion for creativity and collaboration.
 
-* 🌍  I'm based in Atlanta
+* 🌍  I'm based in Atlanta, Georgia
 * ✉️  You can contact me at [gizmokabanjo@gmail.com](mailto:gizmokabanjo@gmail.com)
+* 💻  View my portfolio _
 * 🧠  I'm learning data structures & algorithms and Tailwind css 
 * 🤝  I'm open to collaborating on I'm all ears on any project. Let's build something!
 
