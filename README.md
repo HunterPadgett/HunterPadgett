@@ -7,7 +7,7 @@ Web developer with experience in customer service. Earned a certificate from Geo
 
 * 🌍  I'm based in Atlanta, Georgia
 * ✉️  You can contact me at [gizmokabanjo@gmail.com](mailto:gizmokabanjo@gmail.com)
-* 💻  View my portfolio _
+* 💻  View my portfolio https://hunterpadgett.github.io/HuntPadPortfolio/
 * 🧠  I'm learning data structures & algorithms and Tailwind css 
 * 🤝  I'm open to collaborating on I'm all ears on any project. Let's build something!
 
