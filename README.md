@@ -3,7 +3,7 @@ Hi 👋 My name is Hunter Padgett
 
 Full-Stack Developer
 --------------------
-Web developer with experience in customer service. Earned a certificate from Georgia Tech Professional Education in full-stack development. Interested in building interactive web applications with intuitive user experience using best practices to meet the client’s needs in a timely manner. Known amongst staff to be an efficient problem-solver, cooperative, and an effective communicator. Eager for continuous learning and mastering the craft with a passion for creativity and collaboration.
+Software engineer with a background in customer service and logistics, skilled in creating visually appealing, user-friendly, and responsive front and back-end web applications. Committed to delivering high-quality results that efficiently meet clients' specific needs, known for adept problem-solving, teamwork, and effective communication. Eager to continuously expand knowledge and refine the craft of web development with a deep interest in cloud computing and AI.
 
 * 🌍  I'm based in Atlanta, Georgia
 * ✉️  You can contact me at [hunterpadgett.dev@gmail.com](mailto:hunterpadgett.dev@gmail.com)
