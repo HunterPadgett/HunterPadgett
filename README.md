@@ -1,7 +1,7 @@
 Hi 👋 My name is Hunter Padgett
 ===============================
 
-Full-Stack Developer
+Full-Stack Software Engineer
 --------------------
 Software engineer with a background in customer service and logistics, skilled in creating visually appealing, user-friendly, and responsive front and back-end web applications. Committed to delivering high-quality results that efficiently meet clients' specific needs, known for adept problem-solving, teamwork, and effective communication. Eager to continuously expand knowledge and refine the craft of web development with a deep interest in cloud computing and AI.
 
