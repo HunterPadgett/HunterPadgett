@@ -3,7 +3,7 @@ Hi 👋 My name is Hunter Padgett
 
 Full-Stack Software Engineer
 --------------------
-Software engineer with a background in customer service and logistics, skilled in creating visually appealing, user-friendly, and responsive front and back-end web applications. Committed to delivering high-quality results that efficiently meet clients' specific needs, known for adept problem-solving, teamwork, and effective communication. Eager to continuously expand knowledge and refine the craft of web development with a deep interest in cloud computing and AI.
+As a software engineer with a background in logistics and customer service, I bring a unique perspective to software development. Having consistently dealt with faulty technology during my previous career, I was inspired to become a software engineer to help develop products that enhance user experience and streamline operations. I am committed to creating user-friendly applications that allow users to complete their day-to-day tasks efficiently and effectively. My problem-solving skills, effective communication, and collaborative work style allow me to deliver high-quality results. Driven by a passion for continuous improvement and innovation, I constantly stay up-to-date with emerging technologies and refine my development process to deliver cutting-edge solutions that exceed client expectations.
 
 * 🌍  I'm based in Atlanta, Georgia
 * ✉️  You can contact me at [hunterpadgett.dev@gmail.com](mailto:hunterpadgett.dev@gmail.com)
