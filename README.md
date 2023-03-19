@@ -16,4 +16,7 @@ I build full-stack web apps. Get in touch!
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/hunterpadgett" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="30" /></a> <a href="https://www.linkedin.com/in/hunterpadgett1/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="30" /></a> <a href="https://twitter.com/huntapadgett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/huntapadgett" height="30" width="40" /></a> </p>
+<p align="left">
+<a href="https://twitter.com/huntapadgett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="huntapadgett" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hunterpadgett1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hunterpadgett1/" height="30" width="40" /></a>
+</p>
